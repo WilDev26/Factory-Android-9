@@ -1,6 +1,6 @@
 # Skrip Bash untuk mereset (melalui Termux & ADB ) perangkat Android (Pie)
 ## DOWNLOAD TERMUX FDROID
-* Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)*
+*Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)*
 ## DOWNLOAD TERMUX API
 *Unduh & install [`klik Disinj`](https://f-droid.org/repo/com.termux.api_49.apk)*
 ## Perangkat Keras
