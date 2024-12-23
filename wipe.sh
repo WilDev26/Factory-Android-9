@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-# This file has been encrypted with Blind Bash <https://github.com/FajarKim/blind-bash>
+# This file has been encrypted with Blind Bash <https://github.com/WilDev26>
 # at Mon Dec 23 06:57:41 WIB 2024.
-# Don't forget to follow me on <https://github.com/FajarKim>
+# Don't forget to follow me on <https://github.com/WilDev26>
 set -e
 
 Kd="
@@ -20,10 +20,10 @@ else
 fi
 
 #
-# Copyright (C) 2022-2024 Rangga Fajar Oktariansyah
+# Copyright (C) 2022-2024 willy seviranda
 #
 # Are there any bugs? Report to:
-# -  Email: fajarrkim@gmail.com
-# -  WhatsApp: +6285659850910
-# -  Telegram: @FajarThea
+# -  Email: willssndev80@gmail.com
+# -  WhatsApp: +628××××××
+# -  Telegram: @Willly21
 #
